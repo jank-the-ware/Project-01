@@ -1,7 +1,7 @@
 # Project-01
 
-# Your Name
+# Jack Wareham
 
-# Your Github username
+# jank_the_ware
 
-# List the things you added for points
+# I think there's a few more than eight knots, haven't counted though. Early in the game the player is given the option to collect one of four items (Count's knife, Aethermaul, Chaosbinder, Helm of Jareth), each with specific uses that must be correctly chosen in certain situations for a favorable outcome. For example, you must run away before attacking with the Chaosbinder bow in the bandit fight. Without the bow, running serves no purpose. Player's do have a health statistic, which is really only used in the first encounter. There's a small chance it'll be important in the Stone Face encounter, but there's already so much going on that I didn't end up really going back to combat. The only significant statistic is names, which changes how (or simply if) the player interacts with The Gambler and his game. I would've liked for that to not be based entirely on chance, but again, there's so much going on here, that could be a full game itself. It also changes which ending the player receives. With no names, the player is unable to fulfill their quest from the Count, with the max amount of names, they complete it, allow Sasha to remember her name, and "remember" their own name. Lastly, there are a number of passages that display different text if that knot has already been visited, all having to do with exploration, like being able to go back and forth between the city gates and the alley, and walking to and from the cabin or footprints.
